@@ -1,3 +1,3 @@
-line 1
+line 1 added a line to test conflict
 line 2
 modification by feature/test1 branch
